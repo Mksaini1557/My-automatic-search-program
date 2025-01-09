@@ -35,7 +35,7 @@ def read_search_strings(file_path, column_name):
     return search_strings
 
 # Path to the CSV file containing search strings
-file_path = 'mks.csv'
+file_path = 'your_csv_file_path.csv'
 column_name = 'Trends'  # Replace with the actual column name in your CSV file
 
 # Read search strings from the CSV file
